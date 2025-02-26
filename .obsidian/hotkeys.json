@@ -1,0 +1,11 @@
+{
+  "file-explorer:new-file": [],
+  "obsidian-advanced-new-file:advanced-new-file-new-tab": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ]
+}

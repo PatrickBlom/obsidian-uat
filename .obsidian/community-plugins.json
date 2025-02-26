@@ -1,4 +1,7 @@
 [
   "folder-notes",
-  "waypoint"
+  "waypoint",
+  "templater-obsidian",
+  "obsidian-advanced-new-file",
+  "quickadd"
 ]

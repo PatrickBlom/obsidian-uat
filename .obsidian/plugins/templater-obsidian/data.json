@@ -1,0 +1,42 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "99 Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "99 Templates/01 Templater Scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "00 Inbox",
+      "template": "99 Templates/inboxitemTemplate.md"
+    },
+    {
+      "folder": "10 Projects",
+      "template": "99 Templates/projectNoteTemplate.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "99 Templates/inboxitemTemplate.md",
+    "99 Templates/projectNoteTemplate.md"
+  ],
+  "startup_templates": [
+    ""
+  ]
+}
